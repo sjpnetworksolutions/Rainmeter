@@ -1,0 +1,11 @@
+; SJP Network Solutions Rainmeter Tools
+; Written by Alex Jordan
+
+;WiFi connect/monitor tool
+;version 0.0.1
+
+[Rainmeter]
+Update=1000
+DefaultUpdateDivider=15
+BackgroundMode=2
+SolidColor=0,0,200
